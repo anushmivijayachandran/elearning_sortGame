@@ -1,0 +1,29 @@
+
+.square {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  margin-left: 30%;
+}
+
+.imag1{
+  height: 100px;
+  width: 100px;
+  padding-right: 500px;
+  margin-left: 100px;
+  float: right;
+
+}
+
+.imageDiv, .alphabetDiv
+{
+    display:inline;
+}
+
+.col-sm-61{
+  display:inline;
+}
+
+.row{
+  height:200px;
+}

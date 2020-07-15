@@ -1,0 +1,26 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+    "format": "prettier --loglevel warn --write 'packages/**/*.{json,scss,js}'",
+    "stylelint": "stylelint --fix packages/**/*.scss"
+  },
+  "devDependencies": {
+    "lerna": "^3.20.2",
+    "prettier": "2.0.2",
+    "stylelint": "^13.2.0",
+    "stylelint-config-prettier": "^8.0.1",
+    "stylelint-config-recess-order": "^2.0.2",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-order": "^4.0.0",
+    "eslint-import-resolver-babel-module": "^5.1.2"
+  },
+  "workspaces": [
+    "packages/*",
+    "packages/games/*"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "react-bootstrap": "^1.0.1"
+  }
+}

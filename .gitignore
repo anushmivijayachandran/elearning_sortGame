@@ -1,0 +1,7 @@
+/env
+/front-end/node_modules
+/front-end/packages/elearning/node_modules
+/front-end/packages/games/game-template/node_modules
+/front-end/packages/sortGame/node_modules
+/node_modules
+node_modules/

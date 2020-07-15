@@ -1,0 +1,211 @@
+{
+
+    "data":[{
+
+        "alphabet": "A",
+
+        "img": "../assets/apple.png"
+
+    },
+
+    {
+
+        "alphabet": "B",
+
+        "img": "./assets/ball.png"
+
+    },
+
+    {
+
+        "alphabet": "C",
+
+        "img": "./assets/cat.png"
+
+    },
+
+    {
+
+        "alphabet": "D",
+
+        "img": "./assets/dog.png"
+
+    },
+
+    {
+
+        "alphabet": "E",
+
+        "img": "./assets/egg.png"
+
+    },
+
+    {
+
+        "alphabet": "F",
+
+        "img": "./assets/fish.png"
+
+    },
+
+    {
+
+        "alphabet": "G",
+
+        "img": "./assets/girl.png"
+
+    },
+
+    {
+
+        "alphabet": "H",
+
+        "img": "./assets/hat.png"
+
+    },
+
+    {
+
+        "alphabet": "I",
+
+        "img": "./assets/icecream.png"
+
+    },
+
+    {
+
+        "alphabet": "J",
+
+        "img": "./assets/jug.png"
+
+    },
+
+    {
+
+        "alphabet": "K",
+
+        "img": "./assets/kite.png"
+
+    },
+
+    {
+
+        "alphabet": "L",
+
+        "img": "./assets/lion.png"
+
+    },
+
+    {
+
+        "alphabet": "M",
+
+        "img": "./assets/mouse.png"
+
+    },
+
+    {
+
+        "alphabet": "N",
+
+        "img": "./assets/net.png"
+
+    },
+
+    {
+
+        "alphabet": "O",
+
+        "img": "./assets/owl.png"
+
+    },
+
+    {
+
+        "alphabet": "P",
+
+        "img": "./assets/pig.png"
+
+    },
+
+    {
+
+        "alphabet": "Q",
+
+        "img": "./assets/queen.png"
+
+    },
+
+    {
+
+        "alphabet": "R",
+
+        "img": "./assets/rainbow.png"
+
+    },
+
+    {
+
+        "alphabet": "S",
+
+        "img": "./assets/sun.png"
+
+    },
+
+    {
+
+        "alphabet": "T",
+
+        "img": "./assets/tiger.png"
+
+    },
+
+    {
+
+        "alphabet": "U",
+
+        "img": "./assets/umbrella.png"
+
+    },
+
+    {
+
+        "alphabet": "V",
+
+        "img": "./assets/violin.png"
+
+    },
+
+    {
+
+        "alphabet": "W",
+
+        "img": "./assets/watermelon.png"
+
+    },
+
+    {
+
+        "alphabet": "X",
+
+        "img": "./assets/xylophone.png"
+
+    },
+
+    {
+
+        "alphabet": "Y",
+
+        "img": "./assets/yarn.png"
+
+    },
+
+    {
+
+        "alphabet": "Z",
+
+        "img": "./assets/zebra.png"
+
+    }]
+
+}
